@@ -3,7 +3,7 @@
 A reimagined, single-player version of the classic Snake game, this project challenges players to eat as many cupcakes as possible within a 90-second timer. This game introduces an interactive twist with joystick-controlled movement and speed adjustment via a potentiometer. For more information, read the full blog post.
 Tags: #InteractiveGame #Joystick #Potentiometer #EmbeddedSystem
 
-*Design Goals*
+**Design Goals**
 
 The game enhances player engagement through dynamic and physical controls:
 
@@ -20,13 +20,6 @@ Project Structure
 ├── sketch_joystick/         # Arduino code to integrate joystick and button controls
 │   ├── sketch_joystick_button.ino  # Main Arduino code for joystick and button control
 ├── snake.pde                # Processing code for the main game logic and visuals
-
-File Descriptions
-
-	1.	data/: Contains assets such as images and sounds required by the Processing game file.
-	2.	enclosure/: Optional folder for any physical enclosure design files if the project involves building a case or housing.
-	3.	sketch_joystick/: Contains sketch_joystick_button.ino, which is the Arduino code to control the snake’s movement using a joystick, adjust speed with a potentiometer, and restart the game with a button press.
-	4.	snake.pde: The main Processing file for game visuals and logic, including countdown timer, cupcake counter, and game over screen.
 
 Installation Steps
 
