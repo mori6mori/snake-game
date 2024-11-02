@@ -58,6 +58,8 @@ The game enhances player engagement through dynamic and physical controls:
 ## Testing and Debugging
 
 1.Joystick Movement: Test various directions to ensure the joystick accurately controls the snake’s movement.
+
 2.Speed Adjustment: Adjust the potentiometer to check that the snake’s speed changes smoothly.
+
 3.Restart Button: Test the button to confirm it successfully restarts the game after the timer expires or upon a manual reset.
 
