@@ -1,4 +1,5 @@
-# About
+# Snake Game
+## About
 
 A reimagined, single-player version of the classic Snake game, this project challenges players to eat as many cupcakes as possible within a 90-second timer. This game introduces an interactive twist with joystick-controlled movement and speed adjustment via a potentiometer. For more information, read the [full blog post](https://mori-liu.notion.site/Module-2-Project-Proposal-Timed-Snake-Game-with-Adjustable-Speed-and-Joystick-Controls-11b2195ca68280c8ab12e34fcc35210f?pvs=74).
 
