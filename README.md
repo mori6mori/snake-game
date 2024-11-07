@@ -11,8 +11,7 @@ Tags: #InteractiveGame #Joystick #Potentiometer #EmbeddedSystem
 
 The game enhances player engagement through dynamic and physical controls:
 
-
-
+![IMG_5532](https://github.com/user-attachments/assets/927429f6-fe73-439d-970e-555c57554e49)
 
 * Joystick-Controlled Movement: The joystick provides intuitive, interactive movement control for the snake.
 * Adjustable Speed: The potentiometer lets players dynamically adjust speed, balancing faster movements with increased control difficulty.
@@ -31,6 +30,7 @@ The game enhances player engagement through dynamic and physical controls:
 ```
 
 ## Installation Steps
+<img width="589" alt="Screenshot 2024-11-07 at 1 13 53 PM" src="https://github.com/user-attachments/assets/f3f9b17e-255e-4b62-9887-8565e08be26a">
 
 1. Setup Hardware Components:
  * Joystick: Connect the joystick to control the snake’s direction.
