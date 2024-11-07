@@ -11,6 +11,9 @@ Tags: #InteractiveGame #Joystick #Potentiometer #EmbeddedSystem
 
 The game enhances player engagement through dynamic and physical controls:
 
+
+
+
 * Joystick-Controlled Movement: The joystick provides intuitive, interactive movement control for the snake.
 * Adjustable Speed: The potentiometer lets players dynamically adjust speed, balancing faster movements with increased control difficulty.
 * Cupcake Counter: Updates in real-time as the snake eats cupcakes, giving immediate player feedback.
